@@ -1,0 +1,18 @@
+My Favorite Things
+Basketball
+Video Games
+Music
+Movies
+Pizza
+Football
+Cars
+Traveling
+Technology
+Friends
+git add favorites.txt
+git commit -m "Add favorites.txt with a title"
+git add favorites.txt
+git commit -m "Add 10 favorite things"
+git add favorites.txt
+git commit -m "Remove three favorites"
+git push origin main
